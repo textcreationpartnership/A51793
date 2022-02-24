@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Manner of the execution of William Howard, late Earl of Stafford, and one of the popish lords on Wednesday the 29th of this instant December, for high-treason, in conspiring the death of the King, and to subvert the Protestant religion.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51793</idno>
+            <idno type="STC">Wing M471A</idno>
+            <idno type="STC">ESTC R18674</idno>
+            <idno type="EEBO-CITATION">12170557</idno>
+            <idno type="OCLC">ocm 12170557</idno>
+            <idno type="VID">55395</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51793)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55395)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1746:14, 817:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Manner of the execution of William Howard, late Earl of Stafford, and one of the popish lords on Wednesday the 29th of this instant December, for high-treason, in conspiring the death of the King, and to subvert the Protestant religion.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Mallet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint taken from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stafford, William Howard, --  Viscount, 1614-1680.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:55395:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 21 -->
+            <head>THE Manner of the EXECUTION OF <hi>William Howard,</hi> late Earl of <hi>Stafford,</hi> and one of the Popiſh Lords On <hi>Wedneſday</hi> the 29th of this inſtant <hi>December,</hi> For High-Treaſon, In Conſpiring the Death OF THE KING, AND To ſubvert the Proteſtant Religion.</head>
+            <p>VVHen Men ingrateful, and baſe Souls are by their Prince's fa<g ref="char:EOLhyphen"/>vours, raiſed moſt Commonly they degenerate into Teraſons, and the fowleſt Crimes that Intreſt or Ambition can put into their Minds, not onely againſt thoſe that are their Equals, but againſt that power that raiſed them; and that they ought moſt to reverence and reſpect as bound to it, not only by the Laws of Man, but likewiſe by thoſe of Heaven, which have commanded us to honour and Obey the King, and that it is Damnation to reſiſt his power; yet ſuch have been our Trayterous Sons of <hi>Rome,</hi> that blinded by their Superſtitious Zeal and groſs Errors they have not re<g ref="char:EOLhyphen"/>gard either; but have gone on in ſuch horrid and diabolick Conſpiracies which had they not been prevent by an Almighty Arm. and we plucked out of the Jaws of Ruin and Deſolation; their horrible effects, had <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de the World look pail to ſee the Kingdoms lie welltring in their Childrens Bloods; whilſt on each hand in<g ref="char:EOLhyphen"/>ſulting Papiſts with Fire and Sword, deſtroyed each Sex and Age of their mercileſs cruelty many Countrys can teſtfie; witneſs <hi>Bohemia, Abligentia, Waldentia, Pod<g ref="char:EOLhyphen"/>mont, Flanders, France, Ireland, England,</hi> and, an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many Countreys more where thoſe Slaves to the Scarlet Beaſt, and Enemies to the Goſpel have Tyranized; but let us leave thoſe acts of Antient times, and come to theſe our Modern ones,
+<pb n="2" facs="tcp:55395:2"/>
+               <!-- PDF PAGE 22 -->and take a ſerious veiw of the mighty Stratagems, and Dark contrivances they had for this Fifteen or Sixteen Years paſt been brooding.</p>
+            <p>Firſt, To Fire the famous City and great Metropolis of the Nation by, That to reduce us to poverty, and in rich themſelves by the plunder; that uot taking effect, a Maſſacre was next deſigned; but firſt the King muſt be Murthered to be<g ref="char:EOLhyphen"/>gin the bloody Scean and Tragical deſtruction to perfect this, they had hired ſe<g ref="char:EOLhyphen"/>veral Perſons with vaſt Sums, five Hundred or a Thouſand pound, was a ſmall offer, and over and above a Pardon for their ſins; for ever ſuch was their Igno<g ref="char:EOLhyphen"/>rance hudwinked to ruſh upon Damnation; nay ſo far went, they, when they ſaw the courage of their Ruffins fail, and that God held back their <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ands; as to offer <hi>Waik<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>man,</hi> Ten Thouſand pounds actually for to Adminiſter a Doſe of Poiſon, but at laſt Heaven brought to light their Helliſh practices, ſo deep in Night and Darkneſs laid, and the grand Traytors were apprehended and lodged ſafe in the ſtrong Tower; this Lord of whoſe deſerved fall we intend to Treat, being one of the Number, and proved to be guilty of moſt or all the before mentioned villa<g ref="char:EOLhyphen"/>nies; for ſo we may rightly term ſuch vile and horrid Treaſons in his Plea be<g ref="char:EOLhyphen"/>fore the Lords aſſembled in Parliament, he could not well deny the ſame, they were ſworn ſo poſitively and plain againſt him, by thoſe very men whom he had endeavored, or did actually hire to undertake the ſame by which it was ſeen that Heavens imediate hand was in the diſcovery and means to bring him to his de<g ref="char:EOLhyphen"/>ſerved puniſhment; ſo that after ſeveral Evidences for him had argued backward and forwards confounding their Teſtimonys almoſt at every Queſtion demanded of them rather to his diſadvantage, then profit, ſo that one of his Servants was heard to ſay to him in Court that he wondered he would ever truſt Mr. <hi>Dudgale</hi> (one of the meterial Evidences for the King) with any of his ſecrets for he had often told he would betray his Truſt, or words to that effect.</p>
+            <p>After he had, had a fair Tryal before his Peers which laſted for the ſpace of Six days he was Caſt by his Peers and found guilty of the High Treaſon, with which he was charged; upon which he made many Apologies but of no avail, for the moſt part being convinced of the illegality of his Opinions by the Lord high Steward. So that at laſt he was brought to the Bar with the Tower Ax boren before him, to receive Sentance of death, at which he ſeemed much diſmayed; for it is moſt commonly obſerved thoſe that are inclined to cruelty and eagerly hunt after the lives of others, are not willing to graple with death himſelf; one thing is worthy to be obſerved which never yet any Papiſts owned, that upon his Tryal he being queſtioned as to the Plot of Gunpowder Treaſon, whither he did not beleive that was carried on by the Papiſts? His anſwer was, That he did beleive it, but that they were very vile and wicked men. His Sentance af<g ref="char:EOLhyphen"/>ter a moſt Anthentick Speech made by the Lord High Stward, was, That he muſt go to the place from whence he came, and from thence be drawn upon a Hurdle to the appointed place of Execution, there to be hang'd up by the Neck not till he was dead, but to be cut down alive, his privy Members to be cut off, and his Bowels to be riped out and burnt before his face, then his Head to be ſevered from his body, and his Four Quarters to be divided and diſpoſed of according to his Majeſty's pleaſure, or to this effect; then the Ax being boren before him, he was conveyed by the Leiutenant, and a Guard of Partizans into the Barge, that lay at Old Pallace Stairs, and in it to the Tower, where he went through Tray<g ref="char:EOLhyphen"/>tors Gate to his former Lodging; ſeeming very much diſcontented and troubled in Mind; for no doubt his Conſcience being awaked he began to think of his latter end.</p>
+            <p>Being come into the Tower to his old Lodging he behaved himſelf very modeſt<g ref="char:EOLhyphen"/>ly fetching many ſighs at the reflection of his Tottering State, and the near a<g ref="char:EOLhyphen"/>proch of Death; being often obſerved to pray to himſelf and meditate upon the miſery his horrid Treaſon had involved him in: For ſouler Crimes have not been known, the he paſt doubt was guilty of during his Impriſonment; after condem<g ref="char:EOLhyphen"/>nation Dr. <hi>Burnet,</hi> and ſeveral other Godly Miniſters were with him, to preſwade him to a free Confeſſion of the horrid Plot, and ſo far prevailed with him as to make him ſomewhat relent, bur 'twas not long, for being over awed by <hi>Rome</hi>'s pernicious Serpents that lay hiſſing Damnation in his Ears. If he diſcovered out, he was no doubt compelled to recant thoſe: thought yet ſomething more then
+<pb n="3" facs="tcp:55395:2"/>
+               <!-- PDF PAGE 22 -->ever Catholick did: yet, he owned, for he did confeſs their was a Plot to promoate the Catholick Religion, and that there were ſeveral Geatherings and Contributions to propa<g ref="char:EOLhyphen"/>gate the ſame; but deviſed that ought was intended or de<g ref="char:EOLhyphen"/>ſigned againſt the Life of his Majeſty, upon the pretence of of a Diſcovery, he was likewiſe according to his own deſire brought to the Bar of the Houſe of Lords, where he ſhewed his Malice and his weakneſs by endeavouring to ſpot the candid Reputation of ſome Honourable worthies, but in vain, for it not only begat him a ſharpe Reproofe, but likewiſe incenced the Houſe againſt him, being remmand<g ref="char:EOLhyphen"/>ed to the Tower, where he continued very penſive when he knew the day was perfixed for his Execution which was the 29th. of this inſtant <hi>December,</hi> and that now inter<g ref="char:EOLhyphen"/>ceſſion would be vain; the watches being warned, and the Trained-Bands ordered to be in Arms, on <hi>Wedneſday</hi> the date above mentioned; be was brought our of the Tower by a Guard of Partizans, and conveyed through a lain of Souldiers and the Hamblets Wards, the Ax being boren before him to the place of Execution, being come to the Scaffold he was by the aſſiſtance of ſome Offi<g ref="char:EOLhyphen"/>cers of the Tower, helped upon the Scaffold that ſtood upon the Hill where no ſooner being mounted, but his countenance altered exceedingly as dreading much the near approach of certain Death, whilſt many Catholicks that crouded as near as poſſible and had taken up ſtand<g ref="char:EOLhyphen"/>ings: look as dejected as he to ſee the Champion of their Cauſe now bogle at Death; many prayers he made and often lifted up his hands with divers Proteſtations, for the ſpace of half an hour, was obſerved to weep often caſting his eyes upon his Friend that ſtood neareſt him as being loath to bid the World farewel, though he would not have bluſhed to have been a main Agent in diſtroy<g ref="char:EOLhyphen"/>ing ſo many Thouſands as were intended a Sacrifice to <hi>Rome</hi> Yet, Notwithſtanding his fear: <hi>Stafford,</hi> muſt re<g ref="char:EOLhyphen"/>ceive the reward of his black Treaſons, in order to which accordingly he laying his Head on the Block, after ſome Time the Executioner did his Office and at one blow ſe<g ref="char:EOLhyphen"/>vered
+<pb n="4" facs="tcp:55395:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 23 -->his Head from his Body, doth of them containing life and motion for a good ſpace eſpecially the Body which ſtirred <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd wallowed to and fro, and had the Simptoms of Life, for about a quarter of an hour after the blow was given as it is credibly reported by thoſe who had the ordering of the ſame; thus fell the Tray<g ref="char:EOLhyphen"/>tor, in the Snare he had laid for others, and had his own Blood juſtly ſhead, who did deſign to make Three Kingdoms Swim in Blood; after Execution his Body was conveyed back into the Tower, to be diſpoſed of as his Majeſty ſhall think fit.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>D. Mallet.</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
